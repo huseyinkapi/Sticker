@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>$(PRODUCT_BUNDLE_PACKAGE_TYPE)</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSCameraUsageDescription</key>
+	<string>This app will use your camera in order to get a photo and add sticker on it</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>This app will use your photo gallery to save a sticked photo</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Holimount</string>
+		<string>bariol_thin-webfont</string>
+		<string>bariol_thin_italic-webfont</string>
+		<string>bariol_regular_italic-webfont</string>
+		<string>bariol_light-webfont</string>
+		<string>bariol_light_italic-webfont</string>
+		<string>bariol_regular-webfont</string>
+		<string>bariol_bold_italic-webfont</string>
+		<string>bariol_bold-webfont</string>
+		<string>Cera Pro Black Italic</string>
+		<string>Cera Pro Black</string>
+		<string>Cera Pro Bold Italic</string>
+		<string>Cera Pro Bold</string>
+		<string>Cera Pro Light Italic</string>
+		<string>Cera Pro Light</string>
+		<string>Cera Pro Medium Italic</string>
+		<string>Cera Pro Medium</string>
+		<string>Cera Pro Regular Italic</string>
+		<string>Cera Pro Regular</string>
+		<string>Cera Pro Thin Italic</string>
+		<string>Cera Pro Thin</string>
+		<string>FontsFree-Net-SFProText-Semibold</string>
+	</array>
+	<key>UIApplicationSupportsIndirectInputEvents</key>
+	<true/>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+</dict>
+</plist>
