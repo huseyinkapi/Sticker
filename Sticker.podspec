@@ -8,10 +8,10 @@ Pod::Spec.new do |spec|
   spec.description  = <<-DESC
   Sticker integration
                    DESC
- spec.homepage     = "https://gitlab.com/oak-ios-library/services/sticker"
+ spec.homepage     = "https://github.com/huseyinkapi/Sticker"
  spec.author             = "Huseyin"
  spec.ios.deployment_target = "12.0"
- spec.source       = { :git => "https://gitlab.com/oak-ios-library/services/sticker.git", :tag => "#{spec.version}" }
+ spec.source       = { :git => "https://github.com/huseyinkapi/Sticker.git", :tag => "#{spec.version}" }
  spec.exclude_files = "Exclude"
 
  spec.swift_version = '5'

@@ -287,13 +287,13 @@ The simplest way to import the SDK into an iOS project is to use CocoaPods. Open
 
 ```ruby
 source 'https://github.com/CocoaPods/Specs.git'  # the official index spec
-source 'https://gitlab.com/oak-ios-library/specs.git'  # private spec
+source 'https://github.com/hk-ios-library/specs.git'  # private spec
 
 ```
 
 And add this line to your app's target:
 ```ruby
-pod 'Sticker', :git => 'https://gitlab.com/oak-ios-library/services/sticker.git'
+pod 'Sticker', :git => 'https://github.com/huseyinkapi/Sticker.git'
 ```
 
 ### Important! - do not use! 
